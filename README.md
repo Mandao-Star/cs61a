@@ -1,2 +1,2 @@
 # cs61a
-cs61aSpring 2024
+cs61a Spring 2024
